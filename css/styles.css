@@ -1,0 +1,29 @@
+.headers{
+	background-image: url(../images/landing.jpg);
+}
+.logo{
+	padding-left:40%; 
+	padding-top: 10%;
+}
+h1{
+	text-align:center;
+	color:white;
+}
+.brkfast{
+	background-image: url("../images/foodtop/breakfast.jpg");
+	height: 33%;
+	color: white;
+	text-align: center;
+}
+.din{
+	background-image: url("../images/dinner.jpg");
+	height:33%;
+	color:white;
+	text-align:center;
+}
+.lun{
+	background-image: url("../images/lunch.jpg");
+	height: 33%;
+	color: white;
+	text-align: center;
+}
