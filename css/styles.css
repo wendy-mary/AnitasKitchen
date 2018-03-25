@@ -27,3 +27,19 @@ h1{
 	color: white;
 	text-align: center;
 }
+.con{
+	background-image: url( "../images/backgrounds/foodsBg.jpg"); 
+	height: 70%;
+
+}
+.cos{
+	background-color:orange; 
+	height: 50%;
+}
+.panel-title{
+	color: red;
+	text-align: center;
+}
+.co{
+	height: 45%;
+}
