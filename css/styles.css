@@ -27,3 +27,37 @@ h1{
 	color: white;
 	text-align: center;
 }
+#hour{
+	background-color: white;
+	height: 10%;
+}
+#time{
+	background-color: red;
+     height: 10%;
+     color: white;
+}
+p{
+	font-size: 16px;
+}
+.jumbotron{
+	padding-top: 7%;
+	background-color: white;
+	margin-left: 8%;
+	margin-right: 5%;
+}
+.con{
+	background-image:url("../images/backgrounds/foodsBg.jpg");
+	height: 70%;
+}
+.panel-title{
+	color: red;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+.co{
+	padding-top: 10%;
+}
+.container{
+	background-color: orange;
+	height: 30%;
+}
