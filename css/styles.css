@@ -32,7 +32,7 @@ h1{
 	height: 10%;
 }
 #time{
-	background-color: red;
+	background-color: #F15A29;
      height: 10%;
      color: white;
 }
@@ -57,7 +57,23 @@ p{
 .co{
 	padding-top: 10%;
 }
-.container{
-	background-color: orange;
-	height: 30%;
+.cont{
+	background-color: #F15A29;
+	height: 40%;
+}
+#gallery{
+	color: red;
+}
+.text-box{
+	padding:20px white;
+	border: 20px white;
+	margin: 10px white;
+
+}
+.text-box{ 
+	border-left: 10px;
+	border-right: 10px;
+	border-top: 10px;
+	border-bottom: 10px;
+
 }
