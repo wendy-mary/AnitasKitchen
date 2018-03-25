@@ -33,7 +33,7 @@ h1{
 
 }
 .cos{
-	background-color:orange; 
+	background-color:#F15A29; 
 	height: 50%;
 }
 .panel-title{
@@ -42,4 +42,10 @@ h1{
 }
 .co{
 	height: 45%;
+}
+#time{
+background-color: #F15A29;
+}
+#hour{
+	background-color: white;
 }
