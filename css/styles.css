@@ -64,20 +64,14 @@ p{
 #gallery{
 	color: red;
 }
-.text-box{
-	padding:20px white;
-	border: 20px white;
-	margin: 10px white;
-
-}
-.text-box{ 
-	border-left: 10px;
-	border-right: 10px;
-	border-top: 10px;
-	border-bottom: 10px;
 
 }
 #cent{
 	text-align: center;
 	
+}
+#food{
+	padding-left: 15%;
+	padding: 11%;
+	padding-right: 18%;
 }
