@@ -1,14 +1,16 @@
 
-Support and contact details
+Support and contact details:
 If there are any queries contact marywendychange@yahoo.com
 
-AnitasKitchen
-Anita's Kitchen week 2 repository ####By Wendy Mary ##Know bugs There might be some changes done as time goes by.
+AnitasKitchen:
+Anita's Kitchen week 2 repository ####By Wendy Mary ##
+Know bugs:
+ There might be some changes done as time goes by.
 
-Support and contact details
+Support and contact details:
 If there are any queries contact marywendychange@yahoo.com
 
-License
+License:
 MIT License
 
 Copyright (c) [2018] [wendy-mary]
