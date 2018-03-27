@@ -84,7 +84,8 @@ p{
 }
 .sub{
 	background-image:url(../images/subscribe.jpg);
-	height: 50%; 
+	height: 50%;
+	padding-top: 60px; 
 }
 .email{
 	color: white;
@@ -93,3 +94,16 @@ p{
 .col-md-8{
 	border-right: 2px solid #cecece;
 }
+
+
+.bag{
+	padding: 20px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0,19),0 6px 6px rgba(0,0,0,0,23);
+
+}
+.bag img{
+	width: 100%
+}
+
+
+
