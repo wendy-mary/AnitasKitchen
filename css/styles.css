@@ -75,3 +75,11 @@ p{
 	padding: 11%;
 	padding-right: 18%;
 }
+.sub{
+	background-image:url(../images/subscribe.jpg);
+	height: 50%; 
+}
+.email{
+	color: white;
+	font-size: 30px;
+}
