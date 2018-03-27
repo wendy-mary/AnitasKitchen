@@ -56,6 +56,13 @@ p{
 }
 .co{
 	padding-top: 10%;
+	display: inline-block;
+   
+	margin-top:15px;
+	margin-left: 20px;
+	margin-bottom: 20px; 
+	padding: 80px;
+    border: 2px solid #f15a29;
 }
 .cont{
 	background-color: #F15A29;
@@ -82,4 +89,7 @@ p{
 .email{
 	color: white;
 	font-size: 30px;
+}
+.col-md-8{
+	border-right: 2px solid #cecece;
 }
